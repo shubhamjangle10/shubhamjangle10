@@ -1,7 +1,8 @@
-### Hi 👋 , I am Shubham
-- 🌱 I’m currently learning MERN Stack, Solidity Programming
-- 🔭 I’m currently working on : Digital Identity Verifier Using Blockchain
-- 📫 How to reach me: shubhamjangle1313@gmail.com
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">A passionate learner from India</h3>
+- 🌱 I’m currently learning **MERN Stack, Solidity Programming**
+- 🔭 I’m currently working on : **Digital Identity Verifier Using Blockchain**
+- 📫 How to reach me: **shubhamjangle1313@gmail.com**
 
 <!--
 **shubhamjangle10/shubhamjangle10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
