@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently polishing my **skills** and learning **new technologies**
 
-- 🔭 Last major project worked on : **Digital Identity Verifier Using Blockchain**
+- 🔭 Last major project worked on : **Digital Identity Verifier System Using Blockchain**
 
 - 📫 How to reach me: **shubhamjangle1313@gmail.com**
 
