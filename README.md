@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjangle10&color=00ff00" alt="shubhamjangle10" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Solidity Programming**
+- 🌱 I’m currently polishing my **skills** and learning **new technologies**
 
-- 🔭 I’m currently working on : **Digital Identity Verifier Using Blockchain**
+- 🔭 Last major project worked on : **Digital Identity Verifier Using Blockchain**
 
 - 📫 How to reach me: **shubhamjangle1313@gmail.com**
 
